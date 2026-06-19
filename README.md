@@ -7,7 +7,6 @@
 
 </div>
 
----
 
 ```python
 class Rambabu:
@@ -27,9 +26,6 @@ class Rambabu:
 me = Rambabu()
 me.say_hi()
 ```
-
----
-
 <div align="center">
 
 ## 🧠 About Me
@@ -41,8 +37,6 @@ me.say_hi()
 🏛️ **Treasurer** — NeuraNest AI/ML Association | **Executive Member** — IEEE Computational Intelligence Society  
 🏆 Active in hackathons, ML competitions & open-source  
 📍 Coimbatore, India
-
----
 
 <div align="center">
 
@@ -60,8 +54,6 @@ me.say_hi()
 | [**Fraud Email Detection**](https://github.com/rambaburavi/Fraud-Email-Detection) | NLP-based email fraud classifier | Python · NLP |
 | [**Climora**](https://github.com/rambaburavi/Climora) | Your intelligent weather assistant 🌤️ | Python · API |
 | [**OCR Text Extractor**](https://github.com/rambaburavi/OCR-TEXT-EXTRACTOR) | Optical character recognition pipeline | Python · OpenCV |
-
----
 
 <div align="center">
 
@@ -90,20 +82,16 @@ me.say_hi()
 
 </div>
 
----
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rambaburavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=ffffff" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rambaburavi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambaburavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" width="38%" />
 
 </div>
-
----
 
 <div align="center">
 
@@ -118,8 +106,6 @@ me.say_hi()
 > 📊 **Traffic Demand Prediction** — *HackerEarth ML Challenge*  
 > Competing with a leak-safe historical aggregate feature pipeline (v4)
 
----
-
 <div align="center">
 
 ## 📫 Let's Connect
@@ -129,11 +115,8 @@ me.say_hi()
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambaburavichandran@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rambaburavi)
 
----
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
-
-*"The best way to predict the future is to build agents that shape it."* 🤖
+*"The best way to predict the future is to build agents that shape it."* 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rambaburavi&color=00d9ff&style=flat-square&label=Profile+Views)
 
