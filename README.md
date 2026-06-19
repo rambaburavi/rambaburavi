@@ -49,89 +49,6 @@ me.say_hi()
 🏆 Hackathon competitor · ML challenge grinder · Open-source contributor  
 📍 Coimbatore, India
 
----
-
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔬 [PaperInsight](https://paperinsight-8peu.onrender.com)
-> *Intelligent Research Paper Analyzer*
-
-Agentic AI system that **autonomously parses complex PDFs** and answers research questions. Built a full 7-step pipeline: PDF parsing → chunking → embedding → retrieval → generation across large document corpora.
-
-**Stack:** `Python` `LangChain` `PyPDF` `Vector Search` `FastAPI` `RAG`
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d9ff?style=flat-square)](https://paperinsight-8peu.onrender.com)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/rambaburavi)
-
-</td>
-<td width="50%">
-
-### 🤖 [Analytics Copilot](https://github.com/rambaburavi/Analytics_Copilot)
-> *Multi-Agent NL-to-SQL System*
-
-**6-agent LangGraph orchestration pipeline** — schema linker → query planner → SQL generator → validator → executor → summarizer. Fine-tuned Mistral with QLoRA on custom SQL dataset.
-
-**Stack:** `LangGraph` `QLoRA/LoRA` `ChromaDB` `PostgreSQL` `FastAPI`
-
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/rambaburavi/Analytics_Copilot)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🦷 [Periodontal Disease Predictor](https://github.com/rambaburavi/Periodontal-Disease-Prediction)
-> *CNN-Based Medical Image Classifier*
-
-Deep learning system for early dental disease detection — **panoramic dental image analysis** with CNN pipeline, data augmentation, and preprocessing for clinical-grade screening.
-
-**Stack:** `Python` `TensorFlow` `CNN` `NumPy` `Pandas`
-
-</td>
-<td width="50%">
-
-### 📧 [Fraud Email Detection](https://github.com/rambaburavi/Fraud-Email-Detection)
-> *NLP Email Classifier*
-
-Production-ready NLP pipeline classifying phishing and fraud emails with high accuracy using text feature engineering and ensemble models.
-
-**Stack:** `Python` `NLP` `Scikit-learn`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌤️ [Climora](https://github.com/rambaburavi/Climora)
-> *Your Intelligent Weather Assistant*
-
-Clean, user-friendly weather app with smart location detection and real-time forecast integration.
-
-**Stack:** `Python` `REST APIs`
-
-</td>
-<td width="50%">
-
-### 🔡 [OCR Text Extractor](https://github.com/rambaburavi/OCR-TEXT-EXTRACTOR)
-> *Computer Vision OCR Pipeline*
-
-End-to-end optical character recognition system for extracting structured text from images and documents.
-
-**Stack:** `Python` `OpenCV` `Computer Vision`
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
 
@@ -177,65 +94,24 @@ End-to-end optical character recognition system for extracting structured text f
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
----
-
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rambaburavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=ffffff&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rambaburavi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambaburavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="42%" />
 
 </div>
 
----
 
-<div align="center">
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rambaburavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ Currently Building
-
-</div>
-
-> 🛡️ **Schema-to-Agent Impact Guardian** — *Google Cloud Hackathon (~10K participants)*  
-> Coordinator Agent orchestrating **4 specialized sub-agents** using **Gemini + Google ADK + MCP**  
-> Integrations: `MongoDB` · `Arize Phoenix` · `Fivetran` — targeting the **Fivetran Track**
-
----
-
-<div align="center">
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -246,7 +122,7 @@ End-to-end optical character recognition system for extracting structured text f
 
 <br/>
 
-*"The best way to predict the future is to build agents that shape it."* 🤖
+*"The best way to predict the future is to build agents that shape it."* 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
 
