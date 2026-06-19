@@ -11,19 +11,17 @@
 
 </div>
 
----
 
 ```python
 class RambabuR:
     def __init__(self):
         self.name        = "Rambabu R"
-        self.role        = "Agentic AI Engineer 🤖"
+        self.role        = "Agentic AI Engineer "
         self.university  = "KPRIET, Coimbatore — B.E. CSE (AI/ML), 2027 | CGPA: 8.56"
         self.experience  = ["ML Intern @ Zettaone Technologies (Bangalore, 2025)"]
         self.focus       = ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "Multi-Agent Pipelines"]
         self.languages   = ["Python", "SQL", "Java", "C", "HTML", "Bash"]
         self.stack       = ["LangChain", "LangGraph", "FastAPI", "TensorFlow", "HuggingFace"]
-        self.currently   = "🛡️ Building Schema-to-Agent Impact Guardian @ Google Cloud Hackathon"
         self.motto       = "Ship agents, not just models."
 
     def say_hi(self):
@@ -34,20 +32,17 @@ me = RambabuR()
 me.say_hi()
 ```
 
----
-
 <div align="center">
 
-## 🧠 Who Am I?
+##  Who Am I?
 
 </div>
 
-🎓 **B.E. Computer Science Engineering (AI/ML)** — KPR Institute of Engineering & Technology, Coimbatore *(CGPA: 8.56)*  
-🔬 **ML Intern** @ Zettaone Technologies, Bangalore — Built production-scale AI/ML models with TensorFlow, integrated via REST APIs  
-🏛️ **Treasurer** — NeuraNest AI/ML Association, KPRIET  
-⚡ **Executive Member** — IEEE Computational Intelligence Society, KPRIET  
-🏆 Hackathon competitor · ML challenge grinder · Open-source contributor  
-📍 Coimbatore, India
+ **B.E. Computer Science Engineering (AI/ML)** — KPR Institute of Engineering & Technology, Coimbatore *(CGPA: 8.56)*  
+ **ML Intern** @ Zettaone Technologies, Bangalore — Built production-scale AI/ML models with TensorFlow, integrated via REST APIs  
+ **Treasurer** — NeuraNest AI/ML Association, KPRIET  
+ **Executive Member** — IEEE Computational Intelligence Society, KPRIET   
+ Coimbatore, India
 
 
 <div align="center">
@@ -123,7 +118,5 @@ me.say_hi()
 <br/>
 
 *"The best way to predict the future is to build agents that shape it."* 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
