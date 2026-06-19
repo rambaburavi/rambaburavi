@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Agentic+AI+Systems+that+ship+to+production+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Multi-Agent+Pipelines+%7C+Fine-tuning+%F0%9F%A4%96;From+Coimbatore+%E2%86%92+Building+the+Future+of+AI+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rambaburavi&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/rambaburavi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rambabur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel)](https://rambabuportfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:rambaburavichandran@gmail.com)
 
 </div>
 
@@ -34,20 +30,9 @@ me.say_hi()
 
 <div align="center">
 
-##  Who Am I?
-
-</div>
-
- **B.E. Computer Science Engineering (AI/ML)** — KPR Institute of Engineering & Technology, Coimbatore *(CGPA: 8.56)*  
- **ML Intern** @ Zettaone Technologies, Bangalore — Built production-scale AI/ML models with TensorFlow, integrated via REST APIs  
- **Treasurer** — NeuraNest AI/ML Association, KPRIET  
- **Executive Member** — IEEE Computational Intelligence Society, KPRIET   
- Coimbatore, India
 
 
-<div align="center">
-
-## 🛠️ Tech Arsenal
+##  Tech Arsenal
 
 **Languages**
 
@@ -97,7 +82,7 @@ me.say_hi()
 
 <div align="center">
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rambaburavi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff" width="48%" />
 
@@ -108,7 +93,7 @@ me.say_hi()
 
 
 
-## 🤝 Let's Connect & Collaborate
+##  Let's Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rambabur)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rambabuportfolio.vercel.app/)
