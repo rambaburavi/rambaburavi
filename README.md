@@ -3,7 +3,7 @@
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Rambabu+R+%F0%9F%91%8B;Building+the+Future+with+AI+%26+Agents+%F0%9F%A4%96)](https://git.io/typing-svg)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:7c3aed&height=120&section=header" width="100%"/>
+
 
 </div>
 
