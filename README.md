@@ -1,42 +1,55 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Rambabu+R+%F0%9F%91%8B;Building+the+Future+with+AI+%26+Agents+%F0%9F%A4%96)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00d9ff,100:7c3aed&height=200&section=header&text=Rambabu%20R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Builder%20%7C%20RAG%20Architect&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&width=750&lines=Building+Agentic+AI+Systems+that+ship+to+production+%F0%9F%9A%80;RAG+%7C+LLMs+%7C+Multi-Agent+Pipelines+%7C+Fine-tuning+%F0%9F%A4%96;From+Coimbatore+%E2%86%92+Building+the+Future+of+AI+%F0%9F%8C%8F)](https://git.io/typing-svg)
 
+[![Profile Views](https://komarev.com/ghpvc/?username=rambaburavi&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/rambaburavi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rambabur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=flat-square&logo=vercel)](https://rambabuportfolio.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail)](mailto:rambaburavichandran@gmail.com)
 
 </div>
 
+---
 
 ```python
-class Rambabu:
+class RambabuR:
     def __init__(self):
         self.name        = "Rambabu R"
-        self.role        = "AI/ML Engineer in Making 🤖"
-        self.university  = "KPRIET, Coimbatore — CSE (AI/ML), 2027"
-        self.focus       = ["Agentic AI", "RAG Systems", "LLMs", "Multi-Agent Pipelines"]
-        self.languages   = ["Python", "SQL", "JavaScript"]
-        self.frameworks  = ["LangGraph", "FastAPI", "LangChain", "PyTorch", "HuggingFace"]
-        self.building    = "Schema-to-Agent Impact Guardian 🛡️ — Google Cloud Hackathon"
+        self.role        = "Agentic AI Engineer 🤖"
+        self.university  = "KPRIET, Coimbatore — B.E. CSE (AI/ML), 2027 | CGPA: 8.56"
+        self.experience  = ["ML Intern @ Zettaone Technologies (Bangalore, 2025)"]
+        self.focus       = ["Agentic AI", "RAG Systems", "LLM Fine-tuning", "Multi-Agent Pipelines"]
+        self.languages   = ["Python", "SQL", "Java", "C", "HTML", "Bash"]
+        self.stack       = ["LangChain", "LangGraph", "FastAPI", "TensorFlow", "HuggingFace"]
+        self.currently   = "🛡️ Building Schema-to-Agent Impact Guardian @ Google Cloud Hackathon"
         self.motto       = "Ship agents, not just models."
 
     def say_hi(self):
-        print("Thanks for stopping by! Let's build something intelligent. 🚀")
+        print("Thanks for visiting! Let's build intelligent systems together. 🚀")
+        return {"open_to": ["internships", "collabs", "hackathons", "research"]}
 
-me = Rambabu()
+me = RambabuR()
 me.say_hi()
 ```
+
+---
+
 <div align="center">
 
-## 🧠 About Me
+## 🧠 Who Am I?
 
 </div>
 
-🎓 **B.E. Computer Science Engineering (AI/ML)** @ KPR Institute of Engineering & Technology, Coimbatore  
-🔬 Ex-ML Intern @ **Zettaone Technologies**  
-🏛️ **Treasurer** — NeuraNest AI/ML Association | **Executive Member** — IEEE Computational Intelligence Society  
-🏆 Active in hackathons, ML competitions & open-source  
+🎓 **B.E. Computer Science Engineering (AI/ML)** — KPR Institute of Engineering & Technology, Coimbatore *(CGPA: 8.56)*  
+🔬 **ML Intern** @ Zettaone Technologies, Bangalore — Built production-scale AI/ML models with TensorFlow, integrated via REST APIs  
+🏛️ **Treasurer** — NeuraNest AI/ML Association, KPRIET  
+⚡ **Executive Member** — IEEE Computational Intelligence Society, KPRIET  
+🏆 Hackathon competitor · ML challenge grinder · Open-source contributor  
 📍 Coimbatore, India
+
+---
 
 <div align="center">
 
@@ -44,80 +57,197 @@ me.say_hi()
 
 </div>
 
-| 🔧 Project | 📋 Description | 🛠️ Stack |
-|---|---|---|
-| [**PaperInsight**](https://paperinsight-8peu.onrender.com) | AI-powered research paper analysis with 4 specialized LLM agents — summarize, critique, compare, cite | LangChain · GPT · FastAPI · RAG |
-| [**SWS AI Document Hub**](https://github.com/rambaburavi) | Production RAG chatbot for intelligent document Q&A | LangChain · ChromaDB · FastAPI |
-| [**Analytics Copilot**](https://github.com/rambaburavi/Analytics_Copilot) | Multi-agent NL-to-SQL system with LangGraph + fine-tuned LoRA (Mistral) | LangGraph · LoRA · PostgreSQL |
-| [**AI Disease Detector**](https://github.com/rambaburavi/AI-Disease-Detector) | ML-powered disease prediction system | Python · Scikit-learn |
-| [**Periodontal Disease Predictor**](https://github.com/rambaburavi/Periodontal-Disease-Prediction) | Clinical ML model for dental disease risk prediction | Python · ML |
-| [**Fraud Email Detection**](https://github.com/rambaburavi/Fraud-Email-Detection) | NLP-based email fraud classifier | Python · NLP |
-| [**Climora**](https://github.com/rambaburavi/Climora) | Your intelligent weather assistant 🌤️ | Python · API |
-| [**OCR Text Extractor**](https://github.com/rambaburavi/OCR-TEXT-EXTRACTOR) | Optical character recognition pipeline | Python · OpenCV |
+<table>
+<tr>
+<td width="50%">
+
+### 🔬 [PaperInsight](https://paperinsight-8peu.onrender.com)
+> *Intelligent Research Paper Analyzer*
+
+Agentic AI system that **autonomously parses complex PDFs** and answers research questions. Built a full 7-step pipeline: PDF parsing → chunking → embedding → retrieval → generation across large document corpora.
+
+**Stack:** `Python` `LangChain` `PyPDF` `Vector Search` `FastAPI` `RAG`
+
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-00d9ff?style=flat-square)](https://paperinsight-8peu.onrender.com)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/rambaburavi)
+
+</td>
+<td width="50%">
+
+### 🤖 [Analytics Copilot](https://github.com/rambaburavi/Analytics_Copilot)
+> *Multi-Agent NL-to-SQL System*
+
+**6-agent LangGraph orchestration pipeline** — schema linker → query planner → SQL generator → validator → executor → summarizer. Fine-tuned Mistral with QLoRA on custom SQL dataset.
+
+**Stack:** `LangGraph` `QLoRA/LoRA` `ChromaDB` `PostgreSQL` `FastAPI`
+
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github)](https://github.com/rambaburavi/Analytics_Copilot)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🦷 [Periodontal Disease Predictor](https://github.com/rambaburavi/Periodontal-Disease-Prediction)
+> *CNN-Based Medical Image Classifier*
+
+Deep learning system for early dental disease detection — **panoramic dental image analysis** with CNN pipeline, data augmentation, and preprocessing for clinical-grade screening.
+
+**Stack:** `Python` `TensorFlow` `CNN` `NumPy` `Pandas`
+
+</td>
+<td width="50%">
+
+### 📧 [Fraud Email Detection](https://github.com/rambaburavi/Fraud-Email-Detection)
+> *NLP Email Classifier*
+
+Production-ready NLP pipeline classifying phishing and fraud emails with high accuracy using text feature engineering and ensemble models.
+
+**Stack:** `Python` `NLP` `Scikit-learn`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌤️ [Climora](https://github.com/rambaburavi/Climora)
+> *Your Intelligent Weather Assistant*
+
+Clean, user-friendly weather app with smart location detection and real-time forecast integration.
+
+**Stack:** `Python` `REST APIs`
+
+</td>
+<td width="50%">
+
+### 🔡 [OCR Text Extractor](https://github.com/rambaburavi/OCR-TEXT-EXTRACTOR)
+> *Computer Vision OCR Pipeline*
+
+End-to-end optical character recognition system for extracting structured text from images and documents.
+
+**Stack:** `Python` `OpenCV` `Computer Vision`
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-**AI / ML**
+**AI / ML & Agentic**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=graph&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Agentic / Backend**
+**Concepts**
+
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=database&logoColor=white)
+![Fine--tuning](https://img.shields.io/badge/LoRA%2FQLoRA-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-00D9FF?style=for-the-badge&logo=robot&logoColor=black)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+**Backend & Databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge&logo=graph&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=database&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
+**Tools & Platforms**
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 
+---
 
 <div align="center">
 
 ## 📊 GitHub Stats
 
+<img src="https://github-readme-stats.vercel.app/api?username=rambaburavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7c3aed&text_color=ffffff&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rambaburavi&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=7c3aed&currStreakLabel=00d9ff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambaburavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rambaburavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" width="42%" />
 
 </div>
 
+---
+
 <div align="center">
 
-## 🌐 Currently Building
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rambaburavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rambaburavi/rambaburavi/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Currently Building
 
 </div>
 
 > 🛡️ **Schema-to-Agent Impact Guardian** — *Google Cloud Hackathon (~10K participants)*  
-> A Coordinator Agent orchestrating **4 specialized sub-agents** using Gemini + Google ADK + MCP  
-> Integrating: MongoDB · Arize Phoenix · Fivetran — targeting the **Fivetran Track**
+> Coordinator Agent orchestrating **4 specialized sub-agents** using **Gemini + Google ADK + MCP**  
+> Integrations: `MongoDB` · `Arize Phoenix` · `Fivetran` — targeting the **Fivetran Track**
 
-> 📊 **Traffic Demand Prediction** — *HackerEarth ML Challenge*  
-> Competing with a leak-safe historical aggregate feature pipeline (v4)
+---
 
 <div align="center">
 
-## 📫 Let's Connect
+## 🤝 Let's Connect & Collaborate
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rambabur)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([mailto:rambaburavichandran@gmail.com](https://rambabuportfolio.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://rambabuportfolio.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rambaburavichandran@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rambaburavi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rambaburavi)
 
+<br/>
 
-*"The best way to predict the future is to build agents that shape it."* 
+*"The best way to predict the future is to build agents that shape it."* 🤖
 
-![Profile Views](https://komarev.com/ghpvc/?username=rambaburavi&color=00d9ff&style=flat-square&label=Profile+Views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:00d9ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
